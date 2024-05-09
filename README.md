@@ -1,16 +1,15 @@
 # bitcoin_live
+Bitcoin_Live is a sleek and intuitive Flutter application designed to provide real-time cryptocurrency exchange rates. Built using Dart language and Flutter framework, the app allows users to effortlessly monitor the prices of three popular cryptocurrencies - Bitcoin (BTC), Ethereum (ETH), and Litecoin (LTC) - in their preferred fiat currency.
 
-A new Flutter project.
+Key Features:
 
-## Getting Started
+## Multi-Currency Support: 
+Choose from a wide range of fiat currencies to view cryptocurrency prices.
+## Real-Time Updates: 
+Stay up-to-date with live exchange rates fetched directly from the CoinAPI using HTTP requests.
+## Elegant Interface: 
+Enjoy a user-friendly interface with clean card-based displays for each cryptocurrency.
+## Seamless Navigation:
+Effortlessly switch between currencies and cryptocurrencies with intuitive dropdown menus and pickers.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+With Bitcoin_Live, cryptocurrency enthusiasts and investors can conveniently track their favorite digital assets' prices, empowering them to make informed decisions in the dynamic world of crypto markets.
